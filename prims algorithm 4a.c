@@ -43,3 +43,14 @@ int main() {
 
     return 0;
 }
+
+
+/* output:
+
+Edge 	Weight
+0 - 1 	3 
+1 - 2 	4 
+0 - 3 	5 
+1 - 4 	6 
+
+    */
