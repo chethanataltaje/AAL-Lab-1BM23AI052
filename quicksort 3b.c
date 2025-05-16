@@ -38,3 +38,6 @@ int main() {
 
     return 0;
 }
+
+/* output:
+Sorted array: 8 12 18 41 45 64  */
