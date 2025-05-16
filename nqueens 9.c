@@ -46,3 +46,9 @@ int main() {
         printf("No solution exists.\n");
     return 0;
 }
+
+/* output:
+0 0 1 0 
+1 0 0 0 
+0 0 0 1 
+0 1 0 0 */
