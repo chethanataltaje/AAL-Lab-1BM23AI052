@@ -28,3 +28,6 @@ int main() {
     return 0;
 }
 
+/* output:
+Unsorted Array: 45 12 89 33 7 62 28 5 
+Sorted Array: 5 7 12 28 33 45 62 89  */
