@@ -41,3 +41,5 @@ int main() {
     return 0;
 }
 
+/* output:
+Minimum TSP cost: 80 */
