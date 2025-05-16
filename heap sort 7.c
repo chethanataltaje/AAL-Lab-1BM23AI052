@@ -42,3 +42,7 @@ int main() {
     printArray(arr, n);
     return 0;
 }
+
+
+/* output: 
+Sorted array: 5,7,23,32,34,62 */
