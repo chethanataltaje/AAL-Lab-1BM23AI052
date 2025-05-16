@@ -19,3 +19,6 @@ int main() {
         printf("%d ", arr[i]);
     return 0;
 }
+
+
+// output: Sorted array: 17,21,22,34,36,46,78
