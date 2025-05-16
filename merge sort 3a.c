@@ -36,3 +36,5 @@ int main() {
     return 0;
 }
 
+/* output:
+Sorted array: 10 11 12 15 22 26 35 63 77  */
