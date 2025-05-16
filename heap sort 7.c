@@ -45,4 +45,5 @@ int main() {
 
 
 /* output: 
-Sorted array: 5,7,23,32,34,62 */
+Sorted array: 
+5 7 23 32 34 62  */
