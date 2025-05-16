@@ -27,3 +27,9 @@ int main() {
 
     return 0;
 }
+
+/*output:
+Enter text: Hello people
+Enter the pattern to search: llo
+Pattern found at index 2
+*/
