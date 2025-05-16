@@ -28,3 +28,5 @@ int main() {
     return 0;
 }
 
+/*output:
+Sorted array: 10 14 27 44 60 80 */
